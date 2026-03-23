@@ -39,8 +39,6 @@ It demonstrates basic UI design, page structuring, and navigation flow typically
     |--- reset-password.png
     |--- dashboard.png
     
->>>>>>> b501f1e (Added pages)
-
 ## How to Run
 
 Open `login.html` directly in a web browser  
@@ -51,14 +49,5 @@ Run using XAMPP  in the Browser:
 http://localhost/folder-name/login.html 
 
 ## Author
-
-<<<<<<< HEAD
 Rashi D
 
-## Note
-
-This is a frontend-only demonstration project.  
-No backend authentication or database connection is implemented.
-=======
-Rashi D
->>>>>>> b501f1e (Added pages)
