@@ -25,16 +25,6 @@ It demonstrates basic UI design, page structuring, and navigation flow typically
 
 ## Project Structure
 
-project-folder/
-<<<<<<< HEAD
-│── login.html  
-│── register.html  
-│── forgot.html  
-│── reset.html  
-│── dashboard.html  
-│── style.css  
-│── README.md  
-=======
 │--- index.html (Login Page)  
 │--- register.html  
 │--- forgot.html  
