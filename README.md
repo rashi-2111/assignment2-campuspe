@@ -26,6 +26,7 @@ It demonstrates basic UI design, page structuring, and navigation flow typically
 ## Project Structure
 
 project-folder/
+<<<<<<< HEAD
 │── login.html  
 │── register.html  
 │── forgot.html  
@@ -33,6 +34,22 @@ project-folder/
 │── dashboard.html  
 │── style.css  
 │── README.md  
+=======
+│--- index.html (Login Page)  
+│--- register.html  
+│--- forgot.html  
+│--- reset.html  
+│--- dashboard.html  
+│--- style.css  
+│--- README.md  
+|--- screenshots/
+    |--- login.png
+    |--- register.png
+    |--- forgot-password.png
+    |--- reset-password.png
+    |--- dashboard.png
+    
+>>>>>>> b501f1e (Added pages)
 
 ## How to Run
 
@@ -45,9 +62,13 @@ http://localhost/folder-name/login.html
 
 ## Author
 
+<<<<<<< HEAD
 Rashi D
 
 ## Note
 
 This is a frontend-only demonstration project.  
 No backend authentication or database connection is implemented.
+=======
+Rashi D
+>>>>>>> b501f1e (Added pages)
